@@ -1,0 +1,6 @@
+C:\Users\Atum 2\Desktop\GitHub\Assignment4-4\Assignment4-4\bin\Debug\Assignment4-4.exe.config
+C:\Users\Atum 2\Desktop\GitHub\Assignment4-4\Assignment4-4\bin\Debug\Assignment4-4.exe
+C:\Users\Atum 2\Desktop\GitHub\Assignment4-4\Assignment4-4\bin\Debug\Assignment4-4.pdb
+C:\Users\Atum 2\Desktop\GitHub\Assignment4-4\Assignment4-4\obj\Debug\Assignment4-4.csprojResolveAssemblyReference.cache
+C:\Users\Atum 2\Desktop\GitHub\Assignment4-4\Assignment4-4\obj\Debug\Assignment4-4.exe
+C:\Users\Atum 2\Desktop\GitHub\Assignment4-4\Assignment4-4\obj\Debug\Assignment4-4.pdb
